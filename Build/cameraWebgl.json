@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "RotationTask",
+"productName": "CameraRotateAroundObject",
 "productVersion": "0.1",
 "dataUrl": "cameraWebgl.data.unityweb",
 "wasmCodeUrl": "cameraWebgl.wasm.code.unityweb",
